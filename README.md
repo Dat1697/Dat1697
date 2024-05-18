@@ -1,4 +1,18 @@
-### Hi there 👋
+  ### Hi there 👋
+  -------------------------
+     
+I'm Daniel Nguyen - Data Analyst
+
+📍 Sydney, Australia
+
+📫 How to reach me: https://www.linkedin.com/in/daniel-nguyen1697/
+
+
+Here are a few recent projects of mine that you can view publicly. Feel free to check them out below!
+
+### 📈 Data Analysis Using Machine Learning Algorithms
+------------------------------------------------------
+
 
 <!--
 **Dat1697/Dat1697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
